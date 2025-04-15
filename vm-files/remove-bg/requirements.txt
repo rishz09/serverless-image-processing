@@ -1,0 +1,6 @@
+Flask==3.1.0
+rembg==2.0.65
+pillow==11.1.0
+onnxruntime==1.21.0
+matplotlib==3.10.0
+Werkzeug==3.1.3
