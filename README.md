@@ -1,3 +1,3 @@
 # serverless-image-processing
 
-* [https://youtu.be/ikRHIUXGJwE?si=c-6cQNpvZhma2xzd](Youtube Link)
+* [Youtube Link](https://youtu.be/ikRHIUXGJwE?si=c-6cQNpvZhma2xzd)
