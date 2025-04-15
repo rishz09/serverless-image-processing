@@ -59,16 +59,6 @@ This project presents a **scalable image processing system** that leverages a hy
 - Support for additional cloud providers (Azure, AWS) to avoid vendor lock-in
 - Secure API layer and data encryption for sensitive workloads
 
-## 🙌 Team Contributions
-- **Rishabh Acharya:** System design, VM networking, container deployment on GCP.
-- **Harshit Goyal:** Socket communication, REST API development, overall orchestration.
-- **Pujit Jha:** Load balancer implementation, Docker container creation, frontend UI, documentation.
-
-## 🔗 Repository
-[GitHub - Serverless Image Processing](https://github.com/rishz09/serverless-image-processing)
-
-## 📜 License
-This project is intended for academic and research purposes only.
 
 
 # serverless-image-processing
