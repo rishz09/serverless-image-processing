@@ -60,7 +60,4 @@ This project presents a **scalable image processing system** that leverages a hy
 - Secure API layer and data encryption for sensitive workloads
 
 
-
-# serverless-image-processing
-
 * [Youtube Link](https://youtu.be/ikRHIUXGJwE?si=c-6cQNpvZhma2xzd)
