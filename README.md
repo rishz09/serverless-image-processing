@@ -59,5 +59,5 @@ This project presents a **scalable image processing system** that leverages a hy
 - Support for additional cloud providers (Azure, AWS) to avoid vendor lock-in
 - Secure API layer and data encryption for sensitive workloads
 
-## ▶️ Youtube Link
+## ▶️ Demonstration Link
 - https://youtu.be/ikRHIUXGJwE?si=c-6cQNpvZhma2xzd
