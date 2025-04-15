@@ -60,5 +60,9 @@ This project presents a **scalable image processing system** that leverages a hy
 - Secure API layer and data encryption for sensitive workloads
 
 
-![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="20" style="vertical-align: middle;">
+  Your text goes here
+</p>
+
 * [Youtube Link](https://youtu.be/ikRHIUXGJwE?si=c-6cQNpvZhma2xzd)
