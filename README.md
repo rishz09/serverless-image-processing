@@ -1,7 +1,7 @@
 # Serverless Image Processing with Multi-User Concurrency and Distributed Computing
 
 ## NOTE
-- Currently, **Google Cloud Run instances** have been deleted in order to save costs. URLs in the code won't work, but replacing them with newly created URLs will do the job after creating new instances.
+Currently, **Google Cloud Run instances** have been deleted in order to save costs. URLs in the code won't work, but replacing them with newly created URLs will do the job after creating new instances.
 
 ## 📄 Project Overview
 This project presents a **scalable image processing system** that leverages a hybrid cloud architecture combining local virtual machines (VMs) and serverless cloud containers. It supports multiple concurrent users via a Streamlit-based frontend and intelligently distributes image processing tasks using a custom load balancer based on real-time CPU utilization metrics.
